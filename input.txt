@@ -1,0 +1,24 @@
+Ada Lovelace was a leading 19th century mathematician and daughter of the famous poet Lord Byron.
+
+She was born on 10 December 1815.
+
+Her mother, Annabella Milbanke, insisted that Ada was taught logic, science and mathematics from a young age - which was rare for women at the time. From childhood Ada had a fascination with machines.
+
+At the age of 19 she married an aristocrat called William King. When he was made Earl of Lovelace in 1838 she became Lady Ada King, Countess of Lovelace.
+In 1833 she met Charles Babbage, an inventor and mechanical engineer and they became good friends.
+
+Lovelace was extremely interested in Babbage's plans for a complicated device called the Analytical Engine. It was never built, but the design had all the essential elements of a modern computer.
+
+Lovelace studied the plans for the Analytical Engine and wrote lots of her own comments about how the machine could work - which have been described as early computer programmes.
+
+She described how codes could be created for the device to handle letters and symbols along with numbers. She also created a method for the engine to repeat a series of instructions, a process known as 'looping' that computer programmes still use today.
+
+Her work was published in 1843, in an English science journal.
+
+However, it would be more than 100 years until the Analytical Engine became a reality. Lovelace's notes inspired Alan Turing's work on the first modern computers in the 1940s.
+
+Lovelace died on 27 November 1852 at just 36 and her contributions to the field of computer science were not discovered until well after her death.
+
+Her passion for mathematics and early computer engineering have made her a symbol for modern women in technology.
+
+Lovelace has received many honours for her work since she died. In 1980, the U.S. Department of Defense named a newly developed computer language "Ada".
